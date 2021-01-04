@@ -1,6 +1,6 @@
 This is my first submission as master.
 2021.01.04
-This is my second submission as sub branch
+This is my second submission as sub branch (edit by master)
 2021.01.04
 This is my third submission as sub branch
 I will be strong!
